@@ -32,4 +32,9 @@ var mj = "I'm asking him to change his ways."
 var world = mike + jack + mj
 print(world)
 
+// My own Boolean
 
+var apple = 6
+var orange = 6
+var equate = apple == orange
+print(equate)
