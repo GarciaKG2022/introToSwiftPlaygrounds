@@ -21,7 +21,15 @@ print(appState)
 var numberOne = 5
 var numberTwo = 7
 
-//Create a vaariable that holds the comparison on the two variables we just created
+//Create a variable that holds the comparison on the two variables we just created
 
 var compare = numberOne > numberTwo
+
+// On my own
+var mike = "I'm starting with the "
+var jack = "man in the mirror, "
+var mj = "I'm asking him to change his ways."
+var world = mike + jack + mj
+print(world)
+
 
